@@ -4,6 +4,13 @@
 >
 > This project is not original work. It was created for learning purposes only. Full credit to Paulo Dichone for the course content and instruction.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Tutorial-3DDC84?logo=android&logoColor=white" alt="Android Tutorial"/>
+  <img src="https://img.shields.io/badge/Java-Course%20Project-ED8B00?logo=openjdk&logoColor=white" alt="Java Course Project"/>
+  <img src="https://img.shields.io/badge/Quiz-Scoring%20%26%20Animations-111827" alt="Quiz Scoring and Animations"/>
+  <img src="https://img.shields.io/badge/Trainer-Paulo%20Dichone-2563EB" alt="Trainer Paulo Dichone"/>
+</p>
+
 ---
 
 ## About
