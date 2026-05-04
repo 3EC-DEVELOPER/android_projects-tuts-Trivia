@@ -1,4 +1,4 @@
-package com.example.trivia.util;
+package com.tec.tuts.trivia.util;
 
 import android.app.Activity;
 import android.content.SharedPreferences;

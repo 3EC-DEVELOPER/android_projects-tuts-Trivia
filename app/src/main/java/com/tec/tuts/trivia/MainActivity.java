@@ -1,4 +1,4 @@
-package com.example.trivia;
+package com.tec.tuts.trivia;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -15,11 +15,11 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.trivia.data.AnswerListAsyncResponse;
-import com.example.trivia.data.QuestionBank;
-import com.example.trivia.model.Question;
-import com.example.trivia.model.Score;
-import com.example.trivia.util.Prefs;
+import com.tec.tuts.trivia.data.AnswerListAsyncResponse;
+import com.tec.tuts.trivia.data.QuestionBank;
+import com.tec.tuts.trivia.model.Question;
+import com.tec.tuts.trivia.model.Score;
+import com.tec.tuts.trivia.util.Prefs;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;

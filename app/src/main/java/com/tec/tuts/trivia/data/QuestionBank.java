@@ -1,4 +1,4 @@
-package com.example.trivia.data;
+package com.tec.tuts.trivia.data;
 
 import android.util.Log;
 
@@ -6,8 +6,8 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.example.trivia.controller.AppController;
-import com.example.trivia.model.Question;
+import com.tec.tuts.trivia.controller.AppController;
+import com.tec.tuts.trivia.model.Question;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -15,7 +15,7 @@ import org.json.JSONException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.example.trivia.controller.AppController.TAG;
+import static com.tec.tuts.trivia.controller.AppController.TAG;
 
 public class QuestionBank {
     ArrayList<Question> questionArrayList = new ArrayList<>();

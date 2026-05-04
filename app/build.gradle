@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.example.trivia"
+        applicationId "com.tec.tuts.trivia"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

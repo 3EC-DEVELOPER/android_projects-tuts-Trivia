@@ -1,4 +1,4 @@
-package com.example.trivia.model;
+package com.tec.tuts.trivia.model;
 
 public class Question {
     private String answer;

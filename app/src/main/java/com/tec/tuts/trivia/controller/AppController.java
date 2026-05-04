@@ -1,4 +1,4 @@
-package com.example.trivia.controller;
+package com.tec.tuts.trivia.controller;
 
 import android.app.Application;
 

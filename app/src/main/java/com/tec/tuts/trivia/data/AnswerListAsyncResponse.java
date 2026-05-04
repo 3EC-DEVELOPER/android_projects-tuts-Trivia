@@ -1,6 +1,6 @@
-package com.example.trivia.data;
+package com.tec.tuts.trivia.data;
 
-import com.example.trivia.model.Question;
+import com.tec.tuts.trivia.model.Question;
 
 import java.util.ArrayList;
 
